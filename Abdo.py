@@ -150,17 +150,17 @@ def back():
 def banner():
 	clear()
 	print("""%s
-	   aa       bbbb      dddd         o  o
+	a       bbbb        dddd         o  o
       a  a      b   b      d    d      o     o
-     aaaaa     bbbbb     d     d    o       o
-    a      a    b   b      d    d      o     o
-   a        a   bbbb       dddd        o  o
+     aaaaa     bbbbb d     d    o     o
+    a      a    b    b     d    d      o     o
+   a        a   bbbb       dddd         oo oo
 ╔═════════════════════════════════════════╗
-║ Creator    : Alqamudi Pro   
+║ Creator   :Alqamudi Pro   
 ║ Fasebook  : A.M.Alqamudi
 ║ Whatsapp  : 0916006368
 ║ Number    : 0929480878                     
-║ FILENAME : Ab          
+║ FILENAME  : Ab          
 ╚══════════════════════════════════════════╝
 
 """%(P))
